@@ -1,0 +1,74 @@
+.back {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+  height: 150vh;
+}
+.fflex {
+  height: 105vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ccard {
+  background: linear-gradient(rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5));
+  width: 450px;
+  height: 600px;
+}
+.inp {
+  height: 45px;
+  margin-bottom: 20px;
+  width: 350px;
+  border: solid 1px white;
+  border-radius: 10px;
+  color: white;
+}
+.inp::placeholder {
+  color: white;
+  padding: 10px;
+}
+.colone {
+  background: radial-gradient(
+      140.76% 131.96% at 100% 100%,
+      rgb(33, 114, 227) 0%,
+      rgba(74, 42, 150, 0.5) 73.57%,
+      rgba(74, 42, 150, 0) 100%
+    ),
+    rgb(29, 82, 157);
+  color: white;
+  height: 90px;
+  border-radius: 10px;
+  margin: 10px;
+ 
+}
+.coltwo {
+  background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(109, 59, 227) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+  color: white;
+  height: 90px;
+  border-radius: 10px;
+  margin: 10px;
+ 
+}
+.colthree {
+  background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(176, 56, 220) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+  color: white;
+  height: 90px;
+  border-radius: 10px;
+  margin: 10px;
+ 
+}
+.colfour {
+  background: radial-gradient(140.76% 131.96% at 100% 100%, rgb(229, 9, 20) 0%, rgba(74, 42, 150, 0.5) 73.57%, rgba(74, 42, 150, 0) 100%), rgb(29, 82, 157);
+  color: white;
+  height: 90px;
+  border-radius: 10px;
+  margin: 10px;
+ 
+}
+.txt1{
+
+  margin-bottom: 0;
+  font-size: 14px;
+  color: gray;
+  
+}
